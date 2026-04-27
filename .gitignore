@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+books.json
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
